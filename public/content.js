@@ -1,15 +1,17 @@
 (() => {
   const websiteConfig = {
-    "www.flipkart.com": {
-      productName: "h1",
-      price: ".Nx9bqj",
-      image: "div > img"
-    },
+    
     "www2.hm.com": {
       productName: "h1",
       price: "#product-price",
       image: ".product-detail-main-image-container img"
     },
+    "www.flipkart.com": {
+      productName: "h1",
+      price: ".Nx9bqj",
+      image: "div > img"
+    },
+    
     "www.amazon.in": {
       productName: "#title",
       price: ".a-price-whole",
@@ -17,7 +19,7 @@
     }
 
 
-    
+
   };
 
   const extractProductInfo = () => {
