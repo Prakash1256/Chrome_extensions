@@ -15,6 +15,9 @@
       price: ".a-price-whole",
       image: ".imgTagWrapper > img"
     }
+
+
+    
   };
 
   const extractProductInfo = () => {
