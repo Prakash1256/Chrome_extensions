@@ -15,6 +15,7 @@ interface SimilarProduct {
   category: string;
 }
 
+
 const App = () => {
   const [productInfo, setProductInfo] = useState<ProductInfo>({
     productName: '',
