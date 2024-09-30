@@ -6,19 +6,17 @@
       price: "#product-price",
       image: ".product-detail-main-image-container img"
     },
+    "www.amazon.in": {
+      productName: "#title",
+      price: ".a-price-whole",
+      image: ".imgTagWrapper > img"
+    },
+    
     "www.flipkart.com": {
       productName: "h1",
       price: ".Nx9bqj",
       image: "div > img"
     },
-    
-    "www.amazon.in": {
-      productName: "#title",
-      price: ".a-price-whole",
-      image: ".imgTagWrapper > img"
-    }
-
-
 
   };
 
