@@ -2,6 +2,9 @@
 
 ## Objective
 
+![image](https://github.com/user-attachments/assets/ceda3d79-1f50-4ad0-a187-a2803fc37721)
+
+
 The purpose of this project is to evaluate the ability to develop a Chrome web plugin that interacts with fashion e-commerce web pages, retrieves product information, and optionally connects with external APIs to enhance functionality. This project assesses proficiency in web scraping, JavaScript, and basic plugin development.
 
 ## Task Overview
